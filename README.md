@@ -2,7 +2,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&width=435&lines=Bem-Vindo(a)+ao+meu+GitHub+!" alt="Typing SVG" /></a>
 
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucksgarcia/)
+
 
 </div>
 
@@ -81,7 +82,7 @@
     </tr>
     <tr>
       <td>08</td>
-      <td><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Flutter-0095D5?&style=for-the-badge&logo=flutter&logoColor=white" /></td>
       <td>Básico</td>
     </tr>
     <tr>
@@ -112,13 +113,13 @@
     </tr>
     <tr>
       <td>02</td>
-      <td>INVENTOR</td>
+      <td><img src="https://img.shields.io/badge/Inventor-f8f8f2?style=for-the-badge&logo=autodesk&logoColor=black" /></td>
       <td>Intermediário</td>
       <td>IDE que uso atualmente para projetar Máquinas e dispositivos .</td>
     </tr>
 	 <tr>
       <td>03</td>
-      <td>SOLIDWORKS</td>
+      <td><img src="https://img.shields.io/badge/SOLIDWORKS-CC2927?style=for-the-badge&logo=dassaultsystemes&logoColor=white" /></td>
       <td>Expert</td>
       <td>IDE que uso atualmente para verificação CAE e desenho de projetos mecânicos.</td>
     </tr>
