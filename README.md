@@ -20,6 +20,12 @@
 
 </div>
 
+## &nbsp;Stacks que já estudei em algum momento de minha vida
+
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cpp,dart,flutter,java,notion,aws,git,github,sqlite,autocad,blender,figma,arduino,py,sketchup,wordpress&theme=dark&perline=10" />
+
+
+
 ## ✨ Historia
 
 <div align="center">
